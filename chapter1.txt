@@ -1,0 +1,1 @@
+This is story is about learning creating a git local repository.
